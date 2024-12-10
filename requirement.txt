@@ -1,0 +1,4 @@
+selenium
+unittest
+allure-pytest
+pytest
